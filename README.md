@@ -25,4 +25,4 @@ A feature-rich counter application built with React that includes animations, so
 - CSS-in-JS styling
 
 ## Live Demo
-### Link : 
+### Link : [App](https://counter-app-ruhaaaans-projects.vercel.app/)
